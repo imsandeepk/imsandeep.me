@@ -22,7 +22,7 @@
 
     --container-width-lg: 75%;
     --container-width-md:86%;
-    --container-width-sm:90%;
+    --container-width-sm:100%;
 
 
 }
@@ -127,7 +127,7 @@ img{
     .container{
         width: var(--container-width-sm);
     }
-    section{
+    section > h2 {
         margin-bottom: 2rem;
     }
 }
