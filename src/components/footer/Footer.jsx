@@ -11,7 +11,7 @@ const footer = () => {
       <footer>
       <a href='#' className='footer_logo'>SANDEEP</a>
       <div className='footer_socials'>
-      <a href='https://linkedin.com' target="_blank"><AiFillLinkedin/></a>
+      <a href='https://linkedin.com/in/sandeep-kumar-iitdelhi' target="_blank"><AiFillLinkedin/></a>
       <a href='https://github.com/imsandeepk' target="_blank"><AiFillGithub/></a>
       <a href='https://instagram.com/not_sandeep_?igshid=YmMyMTA2M2Y=' target="_blank"><AiFillInstagram/></a>
       <a href='https://twitter.com/not_sandeep' target="_blank"><FaTwitter/></a></div>
