@@ -25,7 +25,7 @@ const Experience = () => {
           </article>
           <article>
           <div className='icons'><RiFlutterFill/></div>
-            <h4>Flutter</h4>
+            <h4>React Native</h4>
             <small className='text-light'>Intermediate</small>
 
           </article><article>
