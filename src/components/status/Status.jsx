@@ -22,7 +22,7 @@ function Status() {
 
   return (
     <div style={containerStyle}>
-      <h3 style={textStyle}>Ping Me on Discord!!<a href='discord://discord.com/channels/@me/759800813378863115'> sandeep_</a></h3>
+      <h3 style={textStyle}>Ping Me on Discord!!<a href='https://discord.com/channels/@me/759800813378863115'> sandeep_</a></h3>
       <img
         src="https://lanyard.cnrad.dev/api/428805362422906880"
         alt="status"
