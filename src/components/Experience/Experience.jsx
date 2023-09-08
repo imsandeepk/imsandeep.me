@@ -3,7 +3,7 @@ import "./Experience.css"
 import{RiFlutterFill} from "react-icons/ri"
 import{FaPython} from "react-icons/fa"
 import{DiReact} from "react-icons/di"
-import{DiCss3} from "react-icons/di"
+import{SiFlask} from "react-icons/si"
 import{SiMongodb} from "react-icons/si"
 import{SiScikitlearn} from "react-icons/si"
 import{AiFillApi} from "react-icons/ai"
@@ -32,26 +32,16 @@ const Experience = () => {
           <div className='icons'><DiReact/></div>
             <h4>ReactJS</h4>
             <small className='text-light'>Intermediate</small>
-
-          </article><article>
-            <div className='icons'><DiCss3/></div>
-            <h4>CSS</h4>
+            </article>
+            <article>
+            <div className='icons'><SiFlask/></div>
+            <h4>Flask</h4>
             <small className='text-light'>Intermediate</small>
-
-          </article><article>
-          <div className='icons'><SiMongodb/></div>
-            <h4>MongoDB</h4>
-            <small className='text-light'>Basic</small>
-
-          </article><article>
-          <div className='icons'><SiScikitlearn/></div>
-            <h4>SciKit Learn</h4>
-            <small className='text-light'>Basic</small>
 
           </article>
           <article>
           <div className='icons'><AiFillApi/></div>
-            <h4>Api</h4>
+            <h4>Api Development</h4>
             <small className='text-light'>Intermediate</small>
 
           </article>
